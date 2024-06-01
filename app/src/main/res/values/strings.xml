@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">retrofit-demo</string>
+    <string name="btn_retrofit_get">Retrofit_Get</string>
+    <string name="btn_retrofit_post">Retrofit_Post</string>
+</resources>
